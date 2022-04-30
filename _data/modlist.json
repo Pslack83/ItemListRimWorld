@@ -1,1 +1,152 @@
-[]
+﻿[
+  {
+    "author": "Andreas Pardeike",
+    "name": "Harmony",
+    "steamId": "2009463077",
+    "version": "1.3.0.0"
+  },
+  {
+    "author": "m00nl1ght-dev",
+    "name": "Geological Landforms",
+    "steamId": "2773943594",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Murmur",
+    "name": "Wall Light",
+    "steamId": "1423699208",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Shenanigans",
+    "name": "Denim",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Hyper",
+    "name": "Smooth Walls and Floors",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki,  XeoNovaDan,  Orion,  Kikohi,  Taranchuk,  Sarg Bjornson and  Erdelf",
+    "name": "Vanilla Expanded Framework",
+    "steamId": "2023507013",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Helixien,  Erin and  Luizi",
+    "name": "ReGrowth Remastered: Extinct Animals",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Atkana",
+    "name": "Passive Cover",
+    "steamId": "2732147678",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "UdderlyEvelyn",
+    "name": "Water Freezes",
+    "steamId": "2728000958",
+    "version": "1.1.5"
+  },
+  {
+    "author": "booleanne",
+    "name": "Horse Breeds - Skin Variations",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Aelanna",
+    "name": "Cleaning Speed",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Tidal",
+    "name": "More Vanilla Textures",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "hodlhodl",
+    "name": "ToolkitCore",
+    "steamId": "2018368654",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "hodlhodl",
+    "name": "Twitch Toolkit",
+    "steamId": "1718525787",
+    "version": "2.0.10.0"
+  },
+  {
+    "author": "SirRandoo",
+    "name": "ToolkitUtils",
+    "steamId": "2009500580",
+    "version": "6.2.0.5"
+  },
+  {
+    "author": "Garethp",
+    "name": "Mass Replant",
+    "steamId": "2722851962",
+    "version": "0.0.0.0"
+  },
+  {
+    "author": "Sk",
+    "name": "Weapon Mastery",
+    "steamId": "2766683678",
+    "version": "2.0.8"
+  },
+  {
+    "author": "Oskar Potocki,  Sarg Bjornson and  Chowder",
+    "name": "Vanilla Plants Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sarg Bjornson and  Oskar Potocki",
+    "name": "Vanilla Plants Expanded - More Plants",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Djeeshka",
+    "name": "CMT Retexture",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Itzal",
+    "name": "British Weapon Set",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Kitsune",
+    "name": "Kit's Gunpowder Weapons",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Kyrrisayo",
+    "name": "Weapons+",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "hodlhodl",
+    "name": "TwitchToolkit - Lootboxes",
+    "steamId": "1720021578",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "swemoney",
+    "name": "Toolkit - Channel Points",
+    "steamId": "1916651243",
+    "version": "1.3.1"
+  }
+]
